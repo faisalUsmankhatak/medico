@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">136646324204-ge1593gpg3k4ohaqs3o56rt0pnj8454f.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">136646324204</string>
+    <string name="google_api_key" translatable="false">AIzaSyAyHv1QBZr1CKCyMwgaHUdnWybMGRz18RU</string>
+    <string name="google_app_id" translatable="false">1:136646324204:android:c42d4b13aff3bb535d1ac9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAyHv1QBZr1CKCyMwgaHUdnWybMGRz18RU</string>
+    <string name="google_storage_bucket" translatable="false">medico-d7a21.appspot.com</string>
+    <string name="project_id" translatable="false">medico-d7a21</string>
+</resources>
